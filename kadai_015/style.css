@@ -20,9 +20,9 @@ h1,.google-fonts {
   text-shadow: 1px 1px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114)
   }
-html{
+body {
   text-align: center;
 }
-#basic {
+#basic > p {
   font-weight: bold;
   }
